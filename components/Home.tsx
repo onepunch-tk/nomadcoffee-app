@@ -1,5 +1,6 @@
 export function Home() {
-    return (
-        <></>
-    );
+  const x = () => {
+    const coffeeShop = "userLoginIdToCoffeeShop";
+  };
+  return <></>;
 }
